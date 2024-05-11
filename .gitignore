@@ -1,3 +1,12 @@
+#data directory
+dataFromSamples/
+
+#file pathing
+filePathing.py
+
+#other archives
+teste02.nb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
