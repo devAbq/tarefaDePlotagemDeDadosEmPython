@@ -1,11 +1,12 @@
-#data directory
+#data relations
 dataFromSamples/
-
-#file pathing
 filePathing.py
+
+#graphs and other results 
+generatedGraphs/
 
 #other archives
 teste02.nb
 
-#pycache
+#python operation stuff
 __pycache__/
